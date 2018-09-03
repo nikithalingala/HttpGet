@@ -1,0 +1,7 @@
+E:\c#\weatherProgram\HttpGet\HttpGet\bin\Debug\HttpGet.exe.config
+E:\c#\weatherProgram\HttpGet\HttpGet\bin\Debug\HttpGet.exe
+E:\c#\weatherProgram\HttpGet\HttpGet\bin\Debug\HttpGet.pdb
+E:\c#\weatherProgram\HttpGet\HttpGet\obj\Debug\HttpGet.csprojAssemblyReference.cache
+E:\c#\weatherProgram\HttpGet\HttpGet\obj\Debug\HttpGet.csproj.CoreCompileInputs.cache
+E:\c#\weatherProgram\HttpGet\HttpGet\obj\Debug\HttpGet.exe
+E:\c#\weatherProgram\HttpGet\HttpGet\obj\Debug\HttpGet.pdb
